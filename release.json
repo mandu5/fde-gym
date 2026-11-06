@@ -1,0 +1,24 @@
+{
+  "sourceRepository": "https://github.com/mandu5/fde-gym",
+  "sourceBranch": "fix/delivered-process-lifetime-dev",
+  "sourceCommit": "6587d6acd6ca21ca1b98c39c97f6aef33ff9addf",
+  "implementationCommit": "07f4b3333ef4c2686862db35e7b3b6e03100bc05",
+  "sitePath": "docs/lifecycle/",
+  "files": {
+    "LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "docs/process-lifetime.md": "49c4b73ea6ced1f0b28e48b182bd302dfa4777d3eb26597c92375d495a49a0da",
+    "docs/evaluation/2026-10-17-process-lifetime.json": "0582f6adcef8d6ba1ed0af4012a2218be69688ef0cd3f7cfe73b321be2da79d8",
+    "docs/evaluation/2026-10-17-process-lifetime-dev.json": "aa6a64984bcd6ebaa0af4bcaacabb4a6ac7b13ac10ae12905fbf573292f18b02",
+    "docs/evaluation/2026-10-17-site-integration.json": "16f909a5e6216dfe25bed8d0341558f878f56b2933b8a2257a5990901b3e3a76",
+    "docs/lifecycle/index.html": "5068c76f7e75d8a2e4d604f2d08c2d67398d81b9dd72fefa15936aae7ad8c887",
+    "docs/lifecycle/archivo-LICENSE.txt": "c3c8402eec0e31dc9a76851235b1c02a0bb821488b2db8e35bcc2ab60ca8fc2b",
+    "docs/lifecycle/pretendard-LICENSE.txt": "82e9c8a4b203261f10ddba1296422d64914ff3d4b7bd8a12896d03f0f088d70a",
+    "docs/lifecycle/README.md": "9f52d8916c3a0fb1222b411fa4ee9b7956a9e3bfca6fe1a383af306902d385af",
+    "docs/lifecycle/style.css": "616a7bb0f70cfb0fde58aa812e2e6409264c9ce2f57cefe131757316f283dab8",
+    "docs/lifecycle/evidence.js": "3ff3452cda268901156f5f8c808aae47eea6dfc250cb723d29768b83ee3cd163",
+    "docs/lifecycle/design-studio-PROVENANCE.md": "faf654c4f12689c625482a482a15d8e1a8f4d0652160452c296618d44cf81d5c",
+    "docs/lifecycle/site.js": "0e1df624825a0d2ecf9e32c85bca95dc33738f42258b00bad8ab6f400c390809",
+    "docs/lifecycle/fonts/PretendardVariable.subset.91.woff2": "fc9fcd1bea9c8f43f97136a1e89bfa6e34db85f820f86538288647b4c24c5b06",
+    "docs/lifecycle/fonts/archivo.woff2": "e3a28eade21a900c7155a247757f4b2834c07bb7ef07ad7efa55cebaac1e8f5e"
+  }
+}
